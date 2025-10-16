@@ -8,5 +8,5 @@ return [
     'password' => 'Polilpipilipolilpopi09',
     'charset' => 'utf8mb4',
     // Change this password and keep it secret. It protects the admin panel.
-    'admin_password' => 'Polilpipilipolilpopi09',
+    'admin_password' => 'BeCool',
 ];
