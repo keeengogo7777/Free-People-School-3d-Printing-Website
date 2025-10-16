@@ -2,7 +2,7 @@
 // Database configuration for MySQL connection.
 // Replace the placeholder values with your actual Hostinger database credentials.
 return [
-    'host' => 'easychunk.com',
+    'host' => '127.0.0.1:3306',
     'database' => 'u445679916_FPL',
     'username' => 'u445679916_admin',
     'password' => 'Polilpipilipolilpopi09',
